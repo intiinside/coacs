@@ -1,169 +1,201 @@
-# BASE DE CONOCIMIENTO — COOPERATIVA SIMIÁTUG LTDA
-# Fuente: simiatug.fin.ec — Generado automáticamente para RAG
+# BASE DE CONOCIMIENTO — COOPERATIVA DE AHORRO Y CRÉDITO SIMIÁTUG LTDA.
+> Versión 3.0 | Fuentes: simiatug.fin.ec, Estatuto SEPS-INSEPS-AE-SFPS-2022-00123, documentos institucionales TICS
 
 ---
 
-## Información General y Historia
+## 1. Identidad e Historia
 
-La Cooperativa de Ahorro y Crédito Simiátug Ltda. es una institución financiera legalmente constituida en Ecuador, ubicada en la Parroquia Simiátug, Cantón Guaranda, Provincia Bolívar.
+La Cooperativa de Ahorro y Crédito Simiátug Ltda. es una institución financiera legalmente constituida en Ecuador, ubicada en la Parroquia Simiátug, Cantón Guaranda, Provincia Bolívar. Realiza actividades de intermediación financiera y responsabilidad social con sus socios, bajo autorización de la Superintendencia de Economía Popular y Solidaria (SEPS).
 
-Fue fundada el 26 de junio de 1997 por el Ministerio de Inclusión Económica y Social mediante Acuerdo No. 949, e inscrita en el Registro General de Cooperativas con el Número de Orden 6034. Inició actividades en 1993 como pre-cooperativa con el apoyo del Fondo Ecuatoriano Populorum Progressio (FEPP) y la Organización Fundación Runacupac Yachana Huasi, que agrupa 42 comunidades de la Parroquia Simiátug.
+RUC: 0291500994001. Registro SEPS: SEPS-ROEPS-2013-000708. Estatuto Social aprobado mediante Resolución SEPS-INSEPS-AE-SFPS-2022-00123 el 7 de julio de 2022. Gerente General: Msc. Medardo Chanaguano Azogue. Tipo: Cooperativa ABIERTA, acepta a cualquier persona con capacidad y voluntad de ahorrar sin restricción de domicilio.
 
-Registrada en la SEPS con número SEPS-ROEPS-2013-000708, se rige por la Ley Orgánica de la Economía Popular y Solidaria (LOESP). Gerente General: Msc. Medardo Chanaguano.
+Cronología: 1993 inicia como pre-cooperativa con apoyo del FEPP. 1995 las 42 comunidades de la Parroquia Simiátug deciden su creación formal. 26 de junio de 1997 constitución oficial con Acuerdo No. 949 del Ministerio de Inclusión Económica y Social. 1 de junio de 1997 inscripción en el Registro General de Cooperativas con Número de Orden 6034 y 20 socios fundadores. Actualmente cuenta con 4 agencias en las provincias de Bolívar y Cotopaxi.
 
----
-
-## Misión, Visión y Valores
-
-**Misión:** Somos una sociedad participativa e incluyente que mejora las condiciones de la vida de las comunidades, mediante productos financieros y la prestación de servicios de calidad, con un enfoque cooperativista que impulse una sociedad solidaria.
-
-**Visión:** Ser una institución de prestigio, solvente, competitiva ante nuestros socios generando soluciones financieras de calidad basadas en prácticas éticas, transparentes y rentables.
-
-**Principios cooperativistas:** Adhesión Abierta y Voluntaria, Gestión Democrática de los Socios, Participación Económica de los Socios, Autonomía e Independencia, Educación y Capacitación, Cooperación entre Cooperativas, Compromiso con la Comunidad.
-
-**Valores:** Democracia, Solidaridad, Compromiso, Transparencia, Fidelidad, Honestidad, Respeto al medio ambiente.
+Consejo de Administración: Presidente MSc. Segundo Pablo Chimborazo, Secretaria Tgn. Glenda Arminia Cornelio Caiza, Vocales: John Jesus Azogue Yanchaliquin, José Nicolás Sigcha Sigcha, Vicente Ayme Sinchigalo, Segundo Manuel Punina Punica. Consejo de Vigilancia: Presidenta Consuelo Natividad Barragán, Vocales: Camilo Enrique Ramos y Maritza Castillo Peña.
 
 ---
 
-## Agencias y Contacto
+## 2. Filosofía Corporativa
 
-Contamos con cuatro agencias:
+Misión: Somos una sociedad participativa e incluyente que mejora las condiciones de la vida de las comunidades, mediante productos financieros y la prestación de servicios de calidad, con un enfoque cooperativista que impulse una sociedad solidaria.
 
-- **Simiátug** (Oficina Principal): Calle Echeandía y Gonzales Suárez, Simiátug, Guaranda. Teléfono: 096 289 8226
-- **Facundo Vela**: Teléfono: 097 920 9025
-- **San Luis de Pambil**: Teléfono: 095 895 2196
-- **El Corazón** (Provincia Cotopaxi): Teléfono: 098 751 9604
+Visión: Ser una institución de prestigio, solvente, competitiva ante nuestros socios generando soluciones financieras de calidad basadas en prácticas éticas, transparentes y rentables.
 
-**Teléfono principal:** 032 223 073
-**Email:** info@simiatug.fin.ec
-**Página web:** https://simiatug.fin.ec
-**Horario:** Lunes a Viernes de 8:00 AM a 5:00 PM
-**WhatsApp mesa de ayuda:** 096 289 8226
-**Banca en línea:** https://enlinea.simiatug.fin.ec/BancaVirtual/login
+Valores: Democracia, Solidaridad, Compromiso, Transparencia, Fidelidad, Honestidad, Respeto al medio ambiente.
+
+Principios cooperativistas: Membresía abierta y voluntaria, Control democrático de los socios, Participación económica de los socios, Autonomía e independencia, Educación y capacitación, Cooperación entre cooperativas, Compromiso con la comunidad.
 
 ---
 
-## Requisitos para Hacerse Socio y Abrir Cuenta
+## 3. Agencias, Horarios y Contacto
 
-Para abrir una cuenta de ahorros se requiere:
-- Copia de cédula de identidad y papeleta de votación
-- Planilla de un servicio básico (agua, luz o teléfono)
-- Correo electrónico
-- Ahorro inicial de $23 USD
+Agencia Matriz Simiátug: Calle Echeandía, Diagonal al Parque Central de Simiátug. Horario: Lunes a Viernes 08h00-17h00, Sábado 08h00-13h00. WhatsApp: +593 96 289 8226.
 
-El trámite es presencial en cualquiera de nuestras agencias.
+Agencia El Corazón (Cotopaxi): Calle Abdón Calderón, Frente al Mercado. Horario: Lunes a Viernes 08h00-17h00, Domingo 08h00-15h00. WhatsApp: +593 98 751 9604.
 
----
+Agencia San Luis de Pambil (Bolívar): Calle Wilfor Mora. Horario: Lunes a Viernes 08h00-17h00, Domingo 08h00-15h00. WhatsApp: +593 95 895 2196.
 
-## Ahorro a la Vista
+Agencia Facundo Vela (Bolívar): Calle Iñanatug, Frente al Mercado Central. Horario: Martes a Sábado 08h00-17h00. WhatsApp: +593 97 920 9025.
 
-Cuenta que permite mantener dinero para uso directo mediante depósitos, retiros y transferencias.
-
-- Depósito inicial: $23 USD
-- Sin restricciones de retiro
-- Acceso a banca en línea
+Teléfono principal: 032 223 073. Email general: info@simiatug.fin.ec. Email soporte técnico: tics@simiatug.fin.ec. Página web: https://simiatug.fin.ec. Banca en línea: https://enlinea.simiatug.fin.ec/BancaVirtual/login. Chat de atención y Centro de Información: https://chat.simiatug.fin.ec/hc/yanapay/es_EC.
 
 ---
 
-## Ahorro Simiátug Wawa — Cuenta Infantil
+## 4. Membresía y Requisitos para ser Socio
 
-Cuenta de ahorro para niños, niñas y adolescentes menores de 18 años para fomentar la cultura del ahorro.
+Para ser socio se requiere: copia de cédula de identidad y papeleta de votación, planilla de servicio básico (agua, luz o teléfono), correo electrónico activo, inversión inicial de $43 USD ($20 aportación inicial más $23 ahorro inicial). El trámite es presencial en cualquiera de las agencias.
 
-- Monto mínimo de apertura: $13 USD
-- Tasa de interés: 5% anual
-- Apertura 100% gratuita
-- Requisitos: cédula del niño/a y representante legal, planilla de servicio básico, depósito inicial
+Derechos del socio: voz y voto en Asambleas Generales (1 socio = 1 voto), acceso a todos los productos y servicios en igualdad de condiciones, recibir capacitación cooperativista, solicitar información sobre la gestión institucional.
 
----
+Obligaciones: cumplir el Estatuto y reglamentos internos, mantenerse al día en obligaciones económicas, proporcionar información exacta y documentación auténtica.
 
-## Ahorro Programado
-
-El socio elige un valor fijo a ahorrar mensualmente por un plazo definido.
-
-- Plazo mínimo: 6 meses
-- Cuota mínima mensual: $10 USD
+Retiro voluntario: se solicita al Consejo de Administración en cualquier momento. Si no hay pronunciamiento en 30 días, el retiro surte efecto automáticamente. La cooperativa liquida y entrega haberes en máximo 90 días.
 
 ---
 
-## Ahorro a Plazo Fijo
+## 5. Portafolio de Ahorros
 
-Depósito certificado por monto y plazo determinado.
+Ahorro a la Vista: depósito inicial $23 USD, disponibilidad inmediata sin restricciones de retiro, acceso a banca en línea.
 
-**Tasas de interés:**
-- 91 días: 8% anual
-- 181 días: 9% anual
-- 241 días: 10% anual
-- 365 días: 11% anual
-- 390 días: 12% anual
-- Monto mínimo: $100 USD
+Ahorro Simiátug Wawa (Cuenta Infantil): para niños, niñas y adolescentes menores de 18 años, fomenta la cultura del ahorro. Apertura gratuita desde $13 USD. Tasa de interés 5% anual. Requisitos: cédula del menor, cédula del representante legal, planilla de servicio básico, ahorro inicial.
+
+Ahorro Programado: el socio elige un monto fijo mensual. Plazo mínimo 6 meses. Cuota mínima mensual $10 USD.
+
+Ahorro a Plazo Fijo, monto mínimo $100 USD. Tasas: 100 días 7% anual, 190 días 9% anual, 250 días 9.50% anual, 365 días 10% anual, más de 390 días 10.50% anual.
 
 ---
 
-## Inversiones a Plazo Fijo
+## 6. Inversiones a Plazo Fijo
 
-Certificados de depósito respaldados por el seguro COSEDE.
-
-**Tasas de interés:**
-- 100 días: 7% anual
-- 190 días: 9% anual
-- 250 días: 9.50% anual
-- 365 días: 10% anual
-- Más de 390 días: 10.50% anual
+Certificados de depósito con las mejores tasas del mercado, respaldados por la Corporación del Seguro de Depósitos COSEDE. Tasas: 100 días 7% anual, 190 días 9% anual, 250 días 9.50% anual, 365 días 10% anual, más de 390 días 10.50% anual.
 
 ---
 
-## Créditos — Producto Credi Emprendimiento
+## 7. Créditos
 
-Créditos para micro-empresas y trabajadores por cuenta propia.
+Credi Emprendimiento: para microempresas y trabajadores por cuenta propia con ventas anuales inferiores a $20,000 USD. Montos desde $1,000 hasta $20,000 USD. Garantía solidaria. Líneas disponibles: Comercio, Ganadería, Emprendimientos productivos, Credi Mujer Simiateña, Credi Joven Simiateño, Credi Simiátug Runa. Simulador: https://simiatug.fin.ec/simulador/
 
-- Monto: desde $1,000 hasta $20,000 USD
-- Para negocios con ventas anuales inferiores a $20,000 USD
-- Garantía solidaria
+Proceso para obtener un crédito: todo trámite es PRESENCIAL en cualquiera de las agencias. El cliente NO necesita enviar dinero por adelantado ni realizar ningún pago previo para acceder a un crédito. Pasos: acercarse a la agencia más cercana, consultar con el asesor de crédito sobre monto y plazo, presentar los requisitos documentales, el asesor realiza inspección obligatoria, una vez aprobado se procede al desembolso.
 
-**Líneas disponibles:** Comercio, Ganadería, Emprendimientos productivos, Credi Mujer Simiateña, Credi Joven Simiateño, Credi Simiátug Runa.
-
-**Requisitos:**
-- Copias de cédula y papeleta de votación del socio y cónyuge a color
-- Planilla del último pago de luz, agua o teléfono del socio y garante
-- Rol de pagos mecanizado del IESS (si es empleado)
-- Copia de escritura pública del socio y/o garante (si la posee)
-- Pago de impuesto predial
-- Copias de cédula de garantes y cónyuges a color
-- Garantes deben saber firmar
-- Copia de RUC o declaración del IVA mensual (si tiene negocio)
-- Solicitud de crédito firmada por deudor y garantes
-- Inspección por asesor de crédito
-
-Simulador de crédito: https://simiatug.fin.ec/simulador/
+Requisitos de crédito: copias de cédula y papeleta de votación a color del socio, cónyuge y garantes, planilla del último pago de servicios básicos del socio y garante, rol de pagos mecanizado del IESS si es empleado, copia de escritura pública si posee propiedad, pago de impuesto predial, copia de RUC o declaración de IVA mensual si tiene negocio, solicitud de crédito firmada por deudor y garantes, garantes deben saber firmar, inspección obligatoria por asesor de crédito.
 
 ---
 
-## Preguntas Frecuentes
+## 8. Otros Servicios
 
-**¿Ofrecen créditos en línea o de manera virtual?**
-No. La Cooperativa Simiátug no realiza créditos de manera virtual bajo ninguna circunstancia. No entregue ningún valor económico a personas que se identifiquen como representantes en línea. Para solicitar un crédito debe visitar presencialmente nuestras agencias.
-
-**¿Se puede cobrar el bono en la cooperativa?**
-Sí. Todas las entidades financieras estamos acreditadas para pagar el bono. Debe abrir una cuenta en cualquiera de nuestras agencias y registrar su cuenta en el MIES.
-
-**¿Tienen agencias en la costa?**
-No. Nuestras agencias están únicamente en Provincia Bolívar (Simiátug, San Luis de Pambil, Facundo Vela) y Provincia Cotopaxi (El Corazón).
-
-**¿Cómo accedo a la banca en línea?**
-Ingrese a: https://enlinea.simiatug.fin.ec/BancaVirtual/login
-
-**¿Dónde puedo obtener más información?**
-Centro de Información: https://chat.simiatug.fin.ec/hc/yanapay/es_EC o WhatsApp: 096 289 8226
+La cooperativa ofrece más de 100 servicios de pago en sus agencias: pago de agua potable, luz eléctrica, teléfono convencional, internet, transferencias interbancarias, cobro del Bono de Desarrollo Humano.
 
 ---
 
-## Canales Digitales
+## 9. Morosidad y Recargos
 
-- **Banca en Línea:** https://enlinea.simiatug.fin.ec/BancaVirtual/login
-- **Centro de Información:** https://chat.simiatug.fin.ec/hc/yanapay/es_EC
-- **Chat de atención:** https://chat.simiatug.fin.ec
-- **WhatsApp:** 096 289 8226
+Según Resolución No. 165-2015-F de la Junta de Regulación Monetaria Financiera, recargos por mora según saldo del crédito:
+
+Saldo menor a $100: 1-30 días $6.38, 31-60 días $16.23, 61-90 días $23.17, más de 90 días $25.56.
+Saldo de $100 a $199: 1-30 días $7.35, 31-60 días $16.46, 61-90 días $23.85, más de 90 días $26.64.
+Saldo de $200 a $299: 1-30 días $7.92, 31-60 días $17.83, 61-90 días $25.27, más de 90 días $29.03.
+Saldo de $300 a $499: 1-30 días $8.32, 31-60 días $20.34, 61-90 días $27.43, más de 90 días $32.72.
+Saldo de $500 a $999: 1-30 días $8.63, 31-60 días $23.99, 61-90 días $30.34, más de 90 días $37.70.
+Saldo mayor a $1,000: 1-30 días $8.88, 31-60 días $28.78, 61-90 días $34.01, más de 90 días $43.99.
+
+Para evitar recargos, mantenga sus pagos al día. Puede revisar su saldo en la banca en línea o acercarse a cualquier agencia.
 
 ---
-# FIN DEL DOCUMENTO
-# Complementar con: tasas de crédito vigentes, servicios adicionales, tarifas actualizadas
+
+## 10. Canales Digitales y App Simiátug Móvil
+
+La cooperativa cuenta con los siguientes canales digitales: banca en línea web en https://enlinea.simiatug.fin.ec/BancaVirtual/login, aplicación móvil Simiátug Móvil disponible en Google Play y App Store, chat de atención para soporte tecnico como HelpDesk o mesa de ayuda en https://chat.simiatug.fin.ec/hc/yanapay/es_EC
+
+Con los canales digitales puede: consultar saldos y movimientos, realizar transferencias internas y externas (SPI interbancarias), pagar cuotas de créditos, consultar información de productos y servicios, solicitar soporte técnico.
+
+Requisito previo importante para usar la App o Banca en Línea: para registrarse en la aplicación móvil Simiátug Móvil o en la banca virtual web, sus datos de contacto deben estar actualizados en la cooperativa, especialmente número de celular y correo electrónico. Si sus datos están desactualizados, debe acercarse presencialmente a cualquier agencia para actualizarlos antes de poder registrarse en los canales digitales.
+
+Proceso de registro en Simiátug Móvil o Banca en Línea:
+1. Descargar la app desde Google Play o App Store buscando exactamente Simiátug Móvil. Para la web ir a https://simiatug.fin.ec y seleccionar Simiátug en línea.
+2. Seleccionar Registrarse e ingresar: número de cédula, fecha de nacimiento y número de cuenta.
+3. Leer y aceptar los Términos y Condiciones.
+4. El sistema enviará un código OTP de confirmación a su celular o correo electrónico registrado. Tiene 3 minutos para ingresarlo.
+5. Si no recibe el código en 3 minutos, debe acudir presencialmente a una agencia para actualizar sus datos de contacto. No es posible forzar el envío remoto por seguridad.
+6. Crear usuario y contraseña. La contraseña debe incluir mayúsculas, minúsculas, números y caracteres especiales.
+7. Crear PIN de seguridad de 4 dígitos para recuperación de cuenta.
+8. Asignar un alias o nombre al dispositivo.
+
+Inicio de sesión: ingresar usuario y contraseña, el sistema enviará un código de confirmación al celular en cada inicio de sesión, ingresar el código para acceder. Si la contraseña falla 3 veces, la cuenta se bloquea automáticamente.
+
+---
+
+## 11. Seguridad Digital y Prevención de Fraudes
+
+ALERTA DE FRAUDE: La Cooperativa Simiátug NO realiza créditos de manera virtual bajo ninguna circunstancia. Si alguien le contacta ofreciendo créditos en línea, por WhatsApp, redes sociales o cualquier medio virtual solicitando pagos anticipados, cuotas de apertura, seguros, impuestos o cualquier valor económico previo a nombre de Simiátug, es un FRAUDE. No entregue ningún valor económico. Visite únicamente nuestras agencias en Simiátug, El Corazón, Facundo Vela o San Luis de Pambil.
+
+Recomendaciones de seguridad para proteger su cuenta:
+1. Descargue la app únicamente desde Google Play o App Store buscando Simiátug Móvil. Nunca desde links enviados por WhatsApp, SMS o correo.
+2. Nunca comparta su usuario, contraseña, PIN, ni código OTP con nadie, ni con empleados de la cooperativa por teléfono.
+3. La cooperativa NUNCA le pedirá sus claves por teléfono, WhatsApp o correo electrónico.
+4. Desconfíe de llamadas o mensajes que digan ser de Simiátug y le pidan datos personales o claves.
+5. No acceda a la banca virtual desde computadoras públicas o redes WiFi abiertas.
+6. Cambie su contraseña periódicamente y use combinaciones de mayúsculas, minúsculas, números y caracteres especiales.
+7. Si recibe un mensaje sospechoso a nombre de Simiátug, contáctenos directamente al 032 223 073 o a info@simiatug.fin.ec para verificar.
+8. Si sospecha que su cuenta fue comprometida, acérquese inmediatamente a la agencia más cercana.
+9. Mantenga actualizados su número de celular y correo electrónico en la cooperativa para recibir los códigos de verificación correctamente.
+10. La cooperativa utiliza un sistema de doble factor de autenticación OTP en cada inicio de sesión para su protección.
+
+Sus credenciales digitales son personales e intransferibles. Usted es el único responsable de las transacciones realizadas con sus claves.
+
+---
+
+## 12. Privacidad de Datos y Derechos del Titular
+
+La Cooperativa Simiátug cumple con la Ley Orgánica de Protección de Datos Personales (LOPDP) del Ecuador. Sus datos personales son usados para: prestar servicios financieros, consulta a burós de crédito, prevención de lavado de activos, envío de información transaccional, y promociones (con autorización previa).
+
+Sus datos NO son vendidos a terceros. Solo se comparten cuando existe obligación legal (SEPS, UAFE, SRI) o necesidad para prestar el servicio (burós de crédito, redes transaccionales).
+
+Derechos del titular (ARCO+): Acceso (conocer qué datos tiene la cooperativa), Rectificación (corregir información inexacta), Eliminación (borrado de datos cuando no haya obligación legal de conservarlos), Oposición (negarse al uso de datos para marketing), Portabilidad (recibir sus datos en formato estructurado).
+
+Para ejercer sus derechos: correo info@simiatug.fin.ec, teléfono 032 223 073, presencial en cualquier agencia. Respuesta en máximo 15 días. El trámite es gratuito.
+
+Sus datos se conservan mínimo 15 años desde la terminación de la relación contractual, según el Art. 225 del Código Orgánico Monetario y Financiero.
+
+---
+
+## 13. Quejas, Reclamos y Transparencia
+
+Para quejas o denuncias: correo info@simiatug.fin.ec, teléfono 032 223 073, presencial en cualquier agencia con formulario físico.
+
+Formulario de quejas por afectación ambiental: descargarlo en https://simiatug.fin.ec/transparencia/ y enviarlo a info@simiatug.fin.ec.
+
+Información de transparencia institucional disponible en https://simiatug.fin.ec/transparencia/.
+
+---
+
+## 14. Preguntas Frecuentes
+
+¿Ofrecen créditos en línea o virtuales? No. La COAC Simiátug no realiza créditos de manera virtual bajo ninguna circunstancia. Si alguien ofrece créditos virtuales a nombre de Simiátug es un fraude. No entregue ningún valor económico y visite presencialmente nuestras agencias.
+
+¿Cómo solicito un crédito? Acérquese a cualquier agencia, consulte con nuestro asesor, presente los requisitos documentales. Todo el proceso es presencial y gratuito, no requiere ningún pago anticipado.
+
+¿Se puede cobrar el bono en la cooperativa? Sí. Todas las entidades financieras estamos acreditadas para pagar el bono. Debe abrir una cuenta en cualquier agencia y registrarla en el MIES.
+
+¿Tienen agencias en la costa? No. Nuestras agencias están únicamente en Provincia Bolívar (Simiátug, San Luis de Pambil, Facundo Vela) y Provincia Cotopaxi (El Corazón).
+
+¿Cómo accedo a la banca en línea? Ingrese a https://enlinea.simiatug.fin.ec/BancaVirtual/login con su usuario y contraseña. Si no se ha registrado aún, necesita tener sus datos actualizados en la cooperativa.
+
+¿Mis ahorros están protegidos? Sí. Sus depósitos están respaldados por el seguro COSEDE (Corporación del Seguro de Depósitos).
+
+¿Puedo ser socio si vivo fuera de Simiátug? Sí. La cooperativa es abierta y acepta a cualquier persona con capacidad y voluntad de ahorrar, sin restricción de domicilio.
+
+¿Qué pasa si me atraso en el pago de mi crédito? Se aplicarán recargos por mora según la tabla de la Resolución No. 165-2015-F. Acérquese a la agencia más cercana para coordinar su pago y evitar recargos adicionales.
+
+¿Cómo retiro mi calidad de socio? Solicite su retiro voluntario en cualquier agencia. La cooperativa liquidará y entregará sus haberes en un plazo máximo de 90 días.
+
+¿Por qué no recibo el código para registrarme en la app? Si no recibe el código OTP en 3 minutos, significa que sus datos de contacto están desactualizados. Debe acercarse presencialmente a cualquier agencia para actualizar su número de celular y correo electrónico. No es posible resolver esto de forma remota por seguridad.
+
+¿Cómo descargo la app Simiátug Móvil? Ingrese a Google Play (Android) o App Store (iPhone), busque exactamente Simiátug Móvil y seleccione instalar. No descargue la app desde links enviados por WhatsApp, SMS o correo, ya que pueden ser fraudulentos.
+
+¿Qué hago si olvidé mi contraseña? Use su PIN de 4 dígitos para recuperar el acceso. Si tampoco recuerda el PIN, acérquese a cualquier agencia para restablecer sus credenciales.
+
+¿Qué puedo hacer en la aplicacion Simiatug Mobil banca virtual? Consultar saldos y movimientos, realizar transferencias internas y externas (SPI), pagar cuotas de créditos, consultar información de productos financieros.
+
+¿Tienen soporte técnico? Sí, puede escribir a tics@simiatug.fin.ec Inti Poaquiza Azogue 
+
+¿Dónde encuentro más información? Centro de Información: https://chat.simiatug.fin.ec/hc/yanapay/es_EC, WhatsApp: 096 289 8226, WhatsApp directo link: https://api.whatsapp.com/send?phone=593962898226&text=Quiero+contactar+con+alguien, web: https://simiatug.fin.ec.
