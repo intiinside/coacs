@@ -104,11 +104,23 @@ La Cooperativa Simiátug actúa como agente de retención del Impuesto a la Rent
 **¿Qué pasa con el valor retenido?**
 La cooperativa transfiere directamente el valor retenido al SRI. El comprobante de retención sirve al socio como crédito tributario en su declaración anual del Impuesto a la Renta.
 
+**Fórmula de cálculo (base 360 días — estándar financiero Ecuador):**
+Interés bruto = Monto × Tasa% × (Días ÷ 360)
+Retención IR  = Interés bruto × 3% (solo si plazo < 180 días)
+Interés neto  = Interés bruto − Retención
+Total a recibir = Monto + Interés neto
+
 **Ejemplo práctico — plazo menor a 180 días (CON retención):**
-Inversión USD 1.000 a 100 días, tasa 6% anual. Interés bruto: USD 16.44. Retención 3%: USD 0.49. Interés neto: USD 15.95. Total a recibir: USD 1.015.95.
+Inversión USD 1.000 a 100 días, tasa 6% anual.
+Interés bruto: 1.000 × 0.06 × (100 ÷ 360) = USD 16.67.
+Retención 3%: 16.67 × 0.03 = USD 0.50.
+Interés neto: USD 16.17. Total a recibir: USD 1.016.17.
 
 **Ejemplo práctico — plazo igual o mayor a 180 días (SIN retención):**
-Inversión USD 1.000 a 181 días, tasa 8% anual. Interés bruto: USD 39.67. Retención: USD 0.00 (exento). Total a recibir: USD 1.039.67.
+Inversión USD 1.000 a 181 días, tasa 8% anual.
+Interés bruto: 1.000 × 0.08 × (181 ÷ 360) = USD 40.22.
+Retención: USD 0.00 (exento por plazo ≥ 180 días).
+Total a recibir: USD 1.040.22.
 
 **Recomendación:** Invertir a 180 días o más permite acceder a tasas más altas y además evitar la retención, maximizando el rendimiento neto.
 
@@ -253,4 +265,4 @@ Información de transparencia institucional disponible en https://simiatug.fin.e
 
 ¿Cuáles son las tasas de plazo fijo para persona jurídica? Para personas jurídicas el monto va desde USD 1,000 hasta USD 500,000. Las tasas son: 91 a 119 días 4.50% anual, 120 a 180 días 5.00% anual, 181 a 364 días 5.50% anual, 365 días en adelante 6.25% anual.
 
-¿Dónde encuentro más información? Centro de Información: https://chat.simiatug.fin.ec/hc/yanapay/es_EC, WhatsApp: 096 289 8226, WhatsApp directo link: https://api.whatsapp.com/send?phone=593962898226&text=Quiero+contactar+con+alguien, web: https://simiatug.fin.ec.
+¿Dónde encuentro más información? Centro de Información: https://chat.simiatug.fin.ec/hc/yanapay/es_EC, WhatsApp: 096 289 8226, web: https://simiatug.fin.ec.
