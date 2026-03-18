@@ -92,22 +92,25 @@ Plazos y tasas de interés anuales:
 
 ### 6.3 Retención en la Fuente del Impuesto a la Renta sobre Intereses de Plazo Fijo
 
-Según la tabla de porcentajes de retención en la fuente del SRI (Formulario 103), los intereses que la Cooperativa Simiátug paga a sus socios por depósitos a plazo fijo tienen el siguiente tratamiento tributario:
+La Cooperativa Simiátug actúa como agente de retención del Impuesto a la Renta sobre los intereses de depósitos a plazo fijo. La retención depende exclusivamente del plazo pactado:
 
-**Código SRI 323O — Intereses y demás rendimientos financieros pagados por entidades sometidas al control de la Superintendencia de Bancos y de la Economía Popular y Solidaria:**
-- **Porcentaje de retención: 0%**
-- Aplica porque la Cooperativa Simiátug es una entidad regulada y supervisada por la SEPS (Superintendencia de Economía Popular y Solidaria), Segmento 3.
-- Esto significa que los intereses que la cooperativa paga a sus socios por depósitos a plazo fijo, ahorros y otros productos financieros NO están sujetos a retención en la fuente del Impuesto a la Renta.
-- El socio recibe el 100% de los intereses generados, sin ningún descuento por retención.
+**Regla por plazo:**
+- Depósitos con plazo menor a 180 días: se aplica retención del 3% sobre los intereses generados (no sobre el capital).
+- Depósitos con plazo igual o superior a 180 días: exentos de retención. El socio recibe el 100% de los intereses.
 
-**¿Por qué no hay retención?**
-La Ley de Régimen Tributario Interno y la normativa del SRI exoneran de retención a los rendimientos financieros pagados por instituciones del sistema financiero y de la economía popular y solidaria que estén bajo el control de sus respectivos organismos reguladores (Superintendencia de Bancos o SEPS). La COAC Simiátug está bajo control de la SEPS, por lo que aplica esta exoneración.
+**¿Sobre qué se calcula la retención?**
+Únicamente sobre los intereses generados, nunca sobre el capital depositado. El monto invertido se devuelve íntegro al vencimiento.
 
-**¿Aplica esto a todos los productos de ahorro e inversión de Simiátug?**
-Sí. Tanto los intereses de depósitos a plazo fijo (persona natural y jurídica), como los rendimientos de cuentas de ahorro a la vista, ahorro programado y ahorro Wawa, son pagados por una entidad bajo control SEPS y por lo tanto tienen retención del 0%.
+**¿Qué pasa con el valor retenido?**
+La cooperativa transfiere directamente el valor retenido al SRI. El comprobante de retención sirve al socio como crédito tributario en su declaración anual del Impuesto a la Renta.
 
-**Nota importante para personas jurídicas socias:**
-Aunque la cooperativa no retiene sobre los intereses que paga, las personas jurídicas socias deben registrar correctamente estos rendimientos en su contabilidad y declararlos en su Impuesto a la Renta anual como ingresos financieros, de acuerdo con su propia situación tributaria.
+**Ejemplo práctico — plazo menor a 180 días (CON retención):**
+Inversión USD 1.000 a 100 días, tasa 6% anual. Interés bruto: USD 16.44. Retención 3%: USD 0.49. Interés neto: USD 15.95. Total a recibir: USD 1.015.95.
+
+**Ejemplo práctico — plazo igual o mayor a 180 días (SIN retención):**
+Inversión USD 1.000 a 181 días, tasa 8% anual. Interés bruto: USD 39.67. Retención: USD 0.00 (exento). Total a recibir: USD 1.039.67.
+
+**Recomendación:** Invertir a 180 días o más permite acceder a tasas más altas y además evitar la retención, maximizando el rendimiento neto.
 
 ---
 
@@ -238,14 +241,16 @@ Información de transparencia institucional disponible en https://simiatug.fin.e
 
 ¿Tienen soporte técnico? Sí, puede escribir a tics@simiatug.fin.ec Inti Poaquiza Azogue.
 
-¿Me descuentan algo cuando cobro los intereses de mi depósito a plazo fijo? No. La Cooperativa Simiátug es una entidad regulada por la SEPS (Superintendencia de Economía Popular y Solidaria), y según la tabla de retenciones del SRI (Código 323O), los intereses pagados por entidades bajo control de la SEPS tienen retención del 0%. Usted recibe el 100% de los intereses generados, sin ningún descuento.
+¿Me descuentan algo cuando cobro los intereses de mi depósito a plazo fijo? Depende del plazo. Si su depósito es a menos de 180 días, la cooperativa aplica una retención del 3% sobre los intereses generados (no sobre el capital). Si su depósito es a 180 días o más, está exento de retención y recibe el 100% de los intereses. En ambos casos, su capital invertido se devuelve íntegro al vencimiento.
 
-¿Por qué no hay retención del impuesto a la renta en los intereses que paga Simiátug? Porque la Ley de Régimen Tributario Interno exonera de retención a los rendimientos financieros pagados por instituciones del sistema financiero popular y solidario supervisadas por la SEPS. Al ser Simiátug una COAC de Segmento 3 regulada por la SEPS, aplica esta exoneración para todos sus productos de ahorro e inversión.
+¿Cómo puedo evitar la retención del 3%? Invirtiendo a un plazo igual o mayor a 180 días. Además de estar exento de retención, en ese rango de plazo las tasas de interés son más altas, lo que maximiza su rendimiento neto. Es la opción más conveniente para el socio.
 
-¿Los intereses de mis ahorros o plazo fijo en Simiátug debo declararlos al SRI? Las personas naturales que no están obligadas a llevar contabilidad generalmente no tienen obligación de declarar estos intereses, ya que la cooperativa ya aplica retención 0% conforme a la ley. Las personas jurídicas socias deben registrar estos rendimientos en su contabilidad y declararlos como ingresos financieros según su propia situación tributaria. En caso de dudas específicas sobre su situación fiscal, consulte a un contador o al SRI directamente.
+¿La retención del 3% se aplica sobre todo mi dinero depositado? No. La retención se aplica únicamente sobre los intereses (la ganancia generada), nunca sobre el capital depositado. Por ejemplo, si invierte USD 1.000 y genera USD 16.44 de intereses, la retención sería solo USD 0.49. Su inversión de USD 1.000 se devuelve íntegra.
+
+¿Qué es el comprobante de retención que entrega Simiátug? Es un documento oficial que acredita que la cooperativa retuvo y pagó el 3% al SRI en su nombre. Puede usarlo como crédito tributario en su declaración anual del Impuesto a la Renta para reducir o recuperar ese valor.
 
 ¿Cuáles son las tasas de plazo fijo para persona natural? Para personas naturales el monto va desde USD 100 hasta USD 250,000. Las tasas son: 91 a 180 días 6.00% anual, 181 a 250 días 8.00% anual, 251 a 390 días 9.00% anual, 391 a 729 días 9.00% anual, 730 días en adelante 10.00% anual.
 
 ¿Cuáles son las tasas de plazo fijo para persona jurídica? Para personas jurídicas el monto va desde USD 1,000 hasta USD 500,000. Las tasas son: 91 a 119 días 4.50% anual, 120 a 180 días 5.00% anual, 181 a 364 días 5.50% anual, 365 días en adelante 6.25% anual.
 
-¿Dónde encuentro más información? Centro de Información: https://chat.simiatug.fin.ec/hc/yanapay/es_EC, WhatsApp: 096 289 8226, web: https://simiatug.fin.ec.
+¿Dónde encuentro más información? Centro de Información: https://chat.simiatug.fin.ec/hc/yanapay/es_EC, WhatsApp: 096 289 8226, WhatsApp directo link: https://api.whatsapp.com/send?phone=593962898226&text=Quiero+contactar+con+alguien, web: https://simiatug.fin.ec.
