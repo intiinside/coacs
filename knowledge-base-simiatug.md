@@ -1,5 +1,5 @@
 # BASE DE CONOCIMIENTO — COOPERATIVA DE AHORRO Y CRÉDITO SIMIÁTUG LTDA.
-> Versión 3.0 | Fuentes: simiatug.fin.ec, Estatuto SEPS-INSEPS-AE-SFPS-2022-00123, documentos institucionales TICS
+> Versión 3.1 | Fuentes: simiatug.fin.ec, Estatuto SEPS-INSEPS-AE-SFPS-2022-00123, documentos institucionales TICS
 
 ---
 
@@ -61,13 +61,33 @@ Ahorro Simiátug Wawa (Cuenta Infantil): para niños, niñas y adolescentes meno
 
 Ahorro Programado: el socio elige un monto fijo mensual. Plazo mínimo 6 meses. Cuota mínima mensual $10 USD.
 
-Ahorro a Plazo Fijo, monto mínimo $100 USD. Tasas: 100 días 7% anual, 190 días 9% anual, 250 días 9.50% anual, 365 días 10% anual, más de 390 días 10.50% anual.
+Ahorro a Plazo Fijo: ver sección 6 para tasas detalladas por tipo de persona (natural o jurídica). Monto mínimo $100 USD para personas naturales y $1,000 USD para personas jurídicas.
 
 ---
 
 ## 6. Inversiones a Plazo Fijo
 
-Certificados de depósito con las mejores tasas del mercado, respaldados por la Corporación del Seguro de Depósitos COSEDE. Tasas: 100 días 7% anual, 190 días 9% anual, 250 días 9.50% anual, 365 días 10% anual, más de 390 días 10.50% anual.
+Certificados de depósito respaldados por la Corporación del Seguro de Depósitos COSEDE. Las tasas varían según el tipo de persona (natural o jurídica) y el plazo elegido.
+
+### 6.1 Ahorros a Plazo Fijo — Persona Natural
+
+Montos: desde USD 100 hasta USD 250,000.00 (cupo máximo de inversión por socio).
+
+Plazos y tasas de interés anuales:
+- De 91 días hasta 180 días: 6.00% anual
+- Desde 181 días hasta 250 días: 8.00% anual
+- De 251 días hasta 729 días: 9.00% anual
+- De 730 días en adelante: 10.00% anual
+
+### 6.2 Ahorros a Plazo Fijo — Persona Jurídica
+
+Montos: desde USD 1,000 hasta USD 500,000.00 (cupo máximo de inversión por persona jurídica).
+
+Plazos y tasas de interés anuales:
+- De 91 días hasta 119 días: 4.50% anual
+- Desde 120 días hasta 180 días: 5.00% anual
+- De 181 días hasta 364 días: 5.50% anual
+- De 365 días en adelante: 6.25% anual
 
 ---
 
@@ -196,6 +216,10 @@ Información de transparencia institucional disponible en https://simiatug.fin.e
 
 ¿Qué puedo hacer en la aplicacion Simiatug Mobil banca virtual? Consultar saldos y movimientos, realizar transferencias internas y externas (SPI), pagar cuotas de créditos, consultar información de productos financieros.
 
-¿Tienen soporte técnico? Sí, puede escribir a tics@simiatug.fin.ec Inti Poaquiza Azogue 
+¿Tienen soporte técnico? Sí, puede escribir a tics@simiatug.fin.ec Inti Poaquiza Azogue.
 
-¿Dónde encuentro más información? Centro de Información: https://chat.simiatug.fin.ec/hc/yanapay/es_EC, WhatsApp: 096 289 8226, WhatsApp directo link: https://api.whatsapp.com/send?phone=593962898226&text=Quiero+contactar+con+alguien, web: https://simiatug.fin.ec.
+¿Cuáles son las tasas de plazo fijo para persona natural? Para personas naturales el monto va desde USD 100 hasta USD 250,000. Las tasas son: 91 a 180 días 6.00% anual, 181 a 250 días 8.00% anual, 251 a 390 días 9.00% anual, 391 a 729 días 9.00% anual, 730 días en adelante 10.00% anual.
+
+¿Cuáles son las tasas de plazo fijo para persona jurídica? Para personas jurídicas el monto va desde USD 1,000 hasta USD 500,000. Las tasas son: 91 a 119 días 4.50% anual, 120 a 180 días 5.00% anual, 181 a 364 días 5.50% anual, 365 días en adelante 6.25% anual.
+
+¿Dónde encuentro más información? Centro de Información: https://chat.simiatug.fin.ec/hc/yanapay/es_EC, WhatsApp: 096 289 8226, web: https://simiatug.fin.ec.
