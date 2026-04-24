@@ -1,199 +1,432 @@
 # BASE DE CONOCIMIENTO — COOPERATIVA DE AHORRO Y CRÉDITO SIMIÁTUG LTDA.
-> Versión 3.1 | Fuentes: simiatug.fin.ec, Estatuto SEPS-INSEPS-AE-SFPS-2022-00123, documentos institucionales TICS
+> Versión 4.0 | Fuentes: simiatug.fin.ec, Estatuto SEPS-INSEPS-AE-SFPS-2022-00123, documentos institucionales TICS, Marketing
 
 ---
 
 ## 1. Identidad e Historia
 
-La Cooperativa de Ahorro y Crédito Simiátug Ltda. es una institución financiera legalmente constituida en Ecuador, ubicada en la Parroquia Simiátug, Cantón Guaranda, Provincia Bolívar. Realiza actividades de intermediación financiera y responsabilidad social con sus socios, bajo autorización de la Superintendencia de Economía Popular y Solidaria (SEPS).
+La Cooperativa de Ahorro y Crédito Simiátug Ltda. es una institución financiera legalmente constituida en Ecuador, ubicada en la Parroquia Simiátug, Cantón Guaranda, Provincia Bolívar. Realiza actividades de intermediación financiera y responsabilidad social con sus socios, bajo autorización de la Superintendencia de Economía Popular y Solidaria (SEPS). Previa autorización de la SEPS, puede operar con socios y terceros en estricto cumplimiento de la normativa vigente y los principios del sector financiero popular y solidario.
 
-RUC: 0291500994001. Registro SEPS: SEPS-ROEPS-2013-000708. Estatuto Social aprobado mediante Resolución SEPS-INSEPS-AE-SFPS-2022-00123 el 7 de julio de 2022. Gerente General: Msc. Medardo Chanaguano Azogue. Tipo: Cooperativa ABIERTA, acepta a cualquier persona con capacidad y voluntad de ahorrar sin restricción de domicilio.
+**RUC:** 0291500994001  
+**Registro SEPS:** SEPS-ROEPS-2013-000708  
+**Estatuto Social:** aprobado mediante Resolución SEPS-INSEPS-AE-SFPS-2022-00123 el 7 de julio de 2022  
+**Gerente General:** Mgs. Medardo Chanaguano Azogue  
+**Tipo:** Cooperativa ABIERTA — acepta a cualquier persona con capacidad y voluntad de ahorrar, sin restricción de domicilio  
+**Segmento:** Segmento 3 desde el año 2024, con proyección firme hacia el segmento 2
 
-Cronología: 1993 inicia como pre-cooperativa con apoyo del FEPP. 1995 las 42 comunidades de la Parroquia Simiátug deciden su creación formal. 26 de junio de 1997 constitución oficial con Acuerdo No. 949 del Ministerio de Inclusión Económica y Social. 1 de junio de 1997 inscripción en el Registro General de Cooperativas con Número de Orden 6034 y 20 socios fundadores. Actualmente cuenta con 4 agencias en las provincias de Bolívar y Cotopaxi.
+### 1.1 Cronología
 
-Consejo de Administración: Presidente MSc. Segundo Pablo Chimborazo, Secretaria Tgn. Glenda Arminia Cornelio Caiza, Vocales: John Jesus Azogue Yanchaliquin, José Nicolás Sigcha Sigcha, Vicente Ayme Sinchigalo, Segundo Manuel Punina Punica. Consejo de Vigilancia: Presidenta Consuelo Natividad Barragán, Vocales: Camilo Enrique Ramos y Maritza Castillo Peña.
+- **1993:** Inicia como pre-cooperativa con apoyo del Fondo Ecuatoriano Populorum Progressio (FEPP), concediendo pequeños créditos.
+- **1995:** Mediante resolución de la Fundación Runacupac Yachana Huasi, las 42 comunidades de la Parroquia Simiátug, reunidas en congreso, deciden la creación formal de la cooperativa.
+- **26 de junio de 1997:** Constitución oficial mediante Acuerdo No. 949 del Ministerio de Inclusión Económica y Social.
+- **1 de junio de 1997:** Inscripción en el Registro General de Cooperativas con Número de Orden 6034 y 20 socios fundadores.
+- **2013:** Registro y control por la Superintendencia de Economía Popular y Solidaria (SEPS).
+- **2017:** El Mgs. Medardo Chanaguano asume la gerencia cuando la institución atravesaba una situación crítica, con aproximadamente un millón de dólares en activos.
+- **2024:** La cooperativa logra posicionarse en el segmento 3 del sistema financiero popular y solidario.
+
+Actualmente cuenta con 4 agencias en las provincias de Bolívar y Cotopaxi.
+
+### 1.2 Gerente General
+
+El **Mgs. Medardo Chanaguano Azogue** se destaca como un líder visionario, caracterizado por mentalidad positiva, resiliencia, disciplina y pasión por su labor. Desde que asumió la gerencia en 2017, su gestión estratégica llevó a la institución de una situación crítica al segmento 3 en 2024. Entre los logros institucionales destacan: la adquisición de un edificio propio para la agencia El Corazón, la construcción de la agencia San Luis de Pambil, y la implementación de servicios digitales innovadores.
+
+### 1.3 Órganos de Gobierno
+
+**Consejo de Administración:**
+- Presidente: Mgs. Segundo Pablo Chimborazo
+- Vicepresidente: Mgs. Segundo Manuel Punina Punina
+- Secretaria: Tnlga. Glenda Arminia Cornelio Caiza
+- Tercer Vocal: Mgs. Vicente Ayme Sinchigalo
+- Cuarto Vocal: Tnlgo. John Jesús Azogue Yanchaliquin
+- Quinto Vocal: Sr. José Nicolás Sigcha Sigcha
+
+**Consejo de Vigilancia:**
+- Presidenta: Mgs. Consuelo Natividad Barragán
+- Primer Vocal: Sra. Maritza Castillo Peña
+- Segundo Vocal: Sr. Camilo Enrique Ramos
 
 ---
 
 ## 2. Filosofía Corporativa
 
-Misión: Somos una sociedad participativa e incluyente que mejora las condiciones de la vida de las comunidades, mediante productos financieros y la prestación de servicios de calidad, con un enfoque cooperativista que impulse una sociedad solidaria.
+### 2.1 Misión
 
-Visión: Ser una institución de prestigio, solvente, competitiva ante nuestros socios generando soluciones financieras de calidad basadas en prácticas éticas, transparentes y rentables.
+Somos una Cooperativa de Ahorro y Crédito inclusiva que fomenta la mejora de la calidad de vida de socios y comunidad, mediante productos y servicios financieros accesibles, acorde a sus necesidades, contando con directivos y talento humano que trabajan en equipo con agilidad, humildad y solidaridad.
 
-Valores: Democracia, Solidaridad, Compromiso, Transparencia, Fidelidad, Honestidad, Respeto al medio ambiente.
+### 2.2 Visión
 
-Principios cooperativistas: Membresía abierta y voluntaria, Control democrático de los socios, Participación económica de los socios, Autonomía e independencia, Educación y capacitación, Cooperación entre cooperativas, Compromiso con la comunidad.
+Seremos una Cooperativa de segmento 3, reconocida por su gestión de fuerte inclusión financiera en comunidades del mercado objetivo.
+
+### 2.3 Valores Corporativos
+
+- **Integridad:** actuar con rectitud en todas las operaciones, evitando prácticas indebidas o conflictos de interés.
+- **Transparencia:** brindar información clara, veraz y oportuna sobre productos, tasas, condiciones y riesgos.
+- **Honestidad:** manejar los recursos con responsabilidad y sin engaños.
+- **Confidencialidad:** proteger la información personal y financiera de los clientes.
+- **Responsabilidad:** cumplir compromisos y normativas legales, asumiendo las consecuencias de las decisiones.
+- **Equidad:** ofrecer un trato justo e igualitario, sin discriminación.
+- **Compromiso con el cliente:** priorizar el bienestar financiero del usuario, evitando el sobreendeudamiento.
+- **Responsabilidad social:** contribuir al desarrollo económico y social de la comunidad.
+- **Cumplimiento normativo:** respetar leyes y regulaciones del sistema financiero.
+- **Prevención de riesgos:** actuar con prudencia para proteger los recursos de la institución y de sus clientes.
+
+### 2.4 Principios Cooperativistas
+
+- **Membresía abierta y voluntaria:** organización abierta para todas las personas dispuestas a utilizar sus servicios, sin discriminación de género, raza, clase social, posición política o religiosa.
+- **Control democrático de los miembros:** organización democrática donde todos los socios pueden elegir y ser elegidos con igual derecho de voto (1 socio = 1 voto).
+- **Participación económica de los miembros:** los socios contribuyen al capital social mediante aportaciones representadas en Certificados de Aportación.
+- **Autonomía e independencia:** organización autónoma controlada democráticamente por sus socios.
+- **Educación, formación e información:** brinda educación y entrenamiento a socios, representantes, directivos y colaboradores.
+- **Cooperación entre cooperativas:** trabaja conjuntamente con otras organizaciones para fortalecer el movimiento cooperativo.
+- **Compromiso con la comunidad:** trabaja para el desarrollo sostenible de su comunidad.
 
 ---
 
 ## 3. Agencias, Horarios y Contacto
 
-Agencia Matriz Simiátug: Calle Echeandía, Diagonal al Parque Central de Simiátug. Horario: Lunes a Viernes 08h00-17h00, Sábado 08h00-13h00. WhatsApp: +593 96 289 8226.
+**Agencia Matriz Simiátug (Bolívar):**  
+Calle Echeandía, Diagonal al Parque Central de Simiátug  
+Horario: Lunes a Viernes 08h00–17h00 | Sábado 08h00–13h00  
+WhatsApp: +593 96 289 8226
 
-Agencia El Corazón (Cotopaxi): Calle Abdón Calderón, Frente al Mercado. Horario: Lunes a Viernes 08h00-17h00, Domingo 08h00-15h00. WhatsApp: +593 98 751 9604.
+**Agencia El Corazón (Cotopaxi):**  
+Calle Abdón Calderón, Frente al Mercado  
+Horario: Lunes a Viernes 08h00–17h00 | Domingo 08h00–15h00  
+WhatsApp: +593 98 751 9604
 
-Agencia San Luis de Pambil (Bolívar): Calle Wilfor Mora. Horario: Lunes a Viernes 08h00-17h00, Domingo 08h00-15h00. WhatsApp: +593 95 895 2196.
+**Agencia San Luis de Pambil (Bolívar):**  
+Calle Wilfor Mora  
+Horario: Lunes a Viernes 08h00–17h00 | Domingo 08h00–15h00  
+WhatsApp: +593 95 895 2196
 
-Agencia Facundo Vela (Bolívar): Calle Iñanatug, Frente al Mercado Central. Horario: Martes a Sábado 08h00-17h00. WhatsApp: +593 97 920 9025.
+**Agencia Facundo Vela (Bolívar):**  
+Calle Iñanatug, Frente al Mercado Central  
+Horario: Martes a Sábado 08h00–17h00  
+WhatsApp: +593 97 920 9025
 
-Teléfono principal: 032 223 073. Email general: info@simiatug.fin.ec. Email soporte técnico: tics@simiatug.fin.ec. Página web: https://simiatug.fin.ec. Banca en línea: https://enlinea.simiatug.fin.ec/BancaVirtual/login. Chat de atención y Centro de Información: https://chat.simiatug.fin.ec/hc/yanapay/es_EC.
+> La cooperativa NO tiene agencias en la costa. Las agencias están únicamente en Provincia Bolívar (Simiátug, San Luis de Pambil, Facundo Vela) y Provincia Cotopaxi (El Corazón).
+
+**Teléfono principal:** 032 223 073  
+**Email general:** info@simiatug.fin.ec  
+**Email soporte técnico:** tics@simiatug.fin.ec  
+**Página web:** https://simiatug.fin.ec  
+**Banca en línea:** https://enlinea.simiatug.fin.ec/BancaVirtual/login  
+**Centro de Información / Chat:** https://chat.simiatug.fin.ec/hc/yanapay/es_EC
 
 ---
 
 ## 4. Membresía y Requisitos para ser Socio
 
-Para ser socio se requiere: copia de cédula de identidad y papeleta de votación, planilla de servicio básico (agua, luz o teléfono), correo electrónico activo, inversión inicial de $43 USD ($20 aportación inicial más $23 ahorro inicial). El trámite es presencial en cualquiera de las agencias.
+**Requisitos para apertura de membresía:**
+- Copia de cédula de identidad (y cónyuge si es casado/a)
+- Planilla de servicio básico (agua, luz o teléfono) de al menos 3 meses anteriores
+- Correo electrónico activo
+- $23 ahorro inicial
 
-Derechos del socio: voz y voto en Asambleas Generales (1 socio = 1 voto), acceso a todos los productos y servicios en igualdad de condiciones, recibir capacitación cooperativista, solicitar información sobre la gestión institucional.
+El trámite es **presencial** en cualquiera de las agencias.
 
-Obligaciones: cumplir el Estatuto y reglamentos internos, mantenerse al día en obligaciones económicas, proporcionar información exacta y documentación auténtica.
+**Derechos del socio:**
+- Voz y voto en Asambleas Generales (1 socio = 1 voto)
+- Acceso a todos los productos y servicios en igualdad de condiciones
+- Recibir capacitación cooperativista
+- Solicitar información sobre la gestión institucional
 
-Retiro voluntario: se solicita al Consejo de Administración en cualquier momento. Si no hay pronunciamiento en 30 días, el retiro surte efecto automáticamente. La cooperativa liquida y entrega haberes en máximo 90 días.
+**Obligaciones:**
+- Cumplir el Estatuto y reglamentos internos
+- Mantenerse al día en obligaciones económicas
+- Proporcionar información exacta y documentación auténtica
+
+**Retiro voluntario:** se solicita al Consejo de Administración en cualquier momento. Si no hay pronunciamiento en 30 días, el retiro surte efecto automáticamente. La cooperativa liquida y entrega haberes en máximo 90 días.
 
 ---
 
 ## 5. Portafolio de Ahorros
 
-Ahorro a la Vista: depósito inicial $23 USD, disponibilidad inmediata sin restricciones de retiro, acceso a banca en línea.
+### 5.1 Ahorro a la Vista
 
-Ahorro Simiátug Wawa (Cuenta Infantil): para niños, niñas y adolescentes menores de 18 años, fomenta la cultura del ahorro. Apertura gratuita desde $13 USD. Tasa de interés 5% anual. Requisitos: cédula del menor, cédula del representante legal, planilla de servicio básico, ahorro inicial.
+Cuenta de ahorro con disponibilidad inmediata y sin restricciones de retiro.
 
-Ahorro Programado: el socio elige un monto fijo mensual. Plazo mínimo 6 meses. Cuota mínima mensual $10 USD.
+**Beneficios:**
+- Gane una tasa de interés según el monto de ahorro
+- Depósitos y retiros en cualquier momento, sin plazos fijos ni penalizaciones
+- Cero costos por mantenimiento de cuenta
+- Acceso a banca en línea
 
-Ahorro a Plazo Fijo: ver sección 6 para tasas detalladas por tipo de persona (natural o jurídica). Monto mínimo $100 USD para personas naturales y $1,000 USD para personas jurídicas.
+**Requisitos para apertura:**
+- Copia de cédula de identidad (y cónyuge si es casado/a)
+- Planilla de servicios básicos (agua, luz o teléfono) de al menos 3 meses anteriores
+- Depósito inicial: $23 USD
+
+### 5.2 Ahorro Niño Simiátug (Cuenta Infantil)
+
+Cuenta de ahorro infantil diseñada para fomentar el hábito del ahorro y fortalecer la responsabilidad financiera en niños y adolescentes menores de 18 años.
+
+**Beneficios:**
+- Genera intereses según el monto ahorrado
+- Fomenta el hábito del ahorro desde temprana edad
+- Según el valor de apertura el socio se lleva un premio
+- Tasa de interés: 5% anual
+
+**Requisitos para apertura:**
+- Depósito inicial: $13 USD
+- Copia de cédula del niño/a o partida de nacimiento
+- Copia de cédula del representante legal
+- Planilla de servicios básicos del representante (al menos 3 meses anteriores)
+
+### 5.3 Ahorro Programado
+
+Producto de ahorro que permite incrementar el capital mediante tasas de interés competitivas, orientado a cumplir metas a mediano y largo plazo.
+
+**Beneficios:**
+- Cero costos en mantenimiento de cuenta
+- Gana el 5% de interés
+- Plazo mínimo: 6 meses
+
+**Requisitos:**
+- Cuenta activa en la cooperativa
+- Depósito inicial desde $10 USD
+- Cuota mínima mensual: $10 USD
 
 ---
 
 ## 6. Inversiones a Plazo Fijo
 
-Certificados de depósito respaldados por la Corporación del Seguro de Depósitos COSEDE. Las tasas varían según el tipo de persona (natural o jurídica) y el plazo elegido.
+Certificados de depósito seguros y rentables respaldados por la **Corporación del Seguro de Depósitos (COSEDE)**. El socio puede recibir el interés mensualmente o al finalizar el plazo.
 
-### 6.1 Ahorros a Plazo Fijo — Persona Natural
+**Características generales:**
+- Plazo mínimo: 91 días
+- Plazo máximo: más de 730 días
+- Monto mínimo: $100 USD (persona natural)
+- Monto mínimo: $1.000 USD (persona jurídica)
 
-Montos: desde USD 100 hasta USD 250,000.00 (cupo máximo de inversión por socio).
+**Requisitos:**
+- Copia de cédula
+- Depósito mínimo de $100 USD
 
-Plazos y tasas de interés anuales:
-- De 91 días hasta 180 días: 6.00% anual
-- Desde 181 días hasta 250 días: 8.00% anual
-- De 251 días hasta 390 días: 9.00% anual
-- De 391 días hasta 729 días: 9.00% anual
-- De 730 días en adelante: 10.00% anual
+### 6.1 Tasas — Persona Natural
 
-### 6.2 Ahorros a Plazo Fijo — Persona Jurídica
+Montos: desde USD 100 hasta USD 250.000 (cupo máximo por socio).
 
-Montos: desde USD 1,000 hasta USD 500,000.00 (cupo máximo de inversión por persona jurídica).
+| Plazo | Tasa anual |
+|---|---|
+| 91 a 180 días | 6,00% |
+| 181 a 250 días | 8,00% |
+| 251 a 390 días | 9,00% |
+| 391 a 729 días | 9,00% |
+| 730 días en adelante | 10,00% |
 
-Plazos y tasas de interés anuales:
-- De 91 días hasta 119 días: 4.50% anual
-- Desde 120 días hasta 180 días: 5.00% anual
-- De 181 días hasta 364 días: 5.50% anual
-- De 365 días en adelante: 6.25% anual
+### 6.2 Tasas — Persona Jurídica
 
-### 6.3 Retención en la Fuente del Impuesto a la Renta sobre Intereses de Plazo Fijo
+Montos: desde USD 1.000 hasta USD 500.000 (cupo máximo por persona jurídica).
 
-La Cooperativa Simiátug actúa como agente de retención del Impuesto a la Renta sobre los intereses de depósitos a plazo fijo. La retención depende exclusivamente del plazo pactado:
+| Plazo | Tasa anual |
+|---|---|
+| 91 a 119 días | 4,50% |
+| 120 a 180 días | 5,00% |
+| 181 a 364 días | 5,50% |
+| 365 días en adelante | 6,25% |
+
+### 6.3 Retención en la Fuente del Impuesto a la Renta sobre Intereses
+
+La Cooperativa Simiátug actúa como agente de retención del Impuesto a la Renta sobre los intereses de depósitos a plazo fijo. La retención depende **exclusivamente del plazo pactado**, nunca del capital.
 
 **Regla por plazo:**
-- Depósitos con plazo menor a 180 días: se aplica retención del 3% sobre los intereses generados (no sobre el capital).
-- Depósitos con plazo igual o superior a 180 días: exentos de retención. El socio recibe el 100% de los intereses.
-
-**¿Sobre qué se calcula la retención?**
-Únicamente sobre los intereses generados, nunca sobre el capital depositado. El monto invertido se devuelve íntegro al vencimiento.
-
-**¿Qué pasa con el valor retenido?**
-La cooperativa transfiere directamente el valor retenido al SRI. El comprobante de retención sirve al socio como crédito tributario en su declaración anual del Impuesto a la Renta.
+- Plazo **menor a 180 días:** retención del **3%** sobre los intereses generados.
+- Plazo **igual o superior a 180 días:** **exento** de retención. El socio recibe el 100% de los intereses.
 
 **Fórmula de cálculo (base 360 días — estándar financiero Ecuador):**
-Interés bruto = Monto × Tasa% × (Días ÷ 360)
-Retención IR  = Interés bruto × 3% (solo si plazo < 180 días)
-Interés neto  = Interés bruto − Retención
+
+```
+Interés bruto   = Monto × Tasa% × (Días ÷ 360)
+Retención IR    = Interés bruto × 3%  (solo si plazo < 180 días)
+Interés neto    = Interés bruto − Retención
 Total a recibir = Monto + Interés neto
+```
 
-**Ejemplo práctico — plazo menor a 180 días (CON retención):**
-Inversión USD 1.000 a 100 días, tasa 6% anual.
-Interés bruto: 1.000 × 0.06 × (100 ÷ 360) = USD 16.67.
-Retención 3%: 16.67 × 0.03 = USD 0.50.
-Interés neto: USD 16.17. Total a recibir: USD 1.016.17.
+**Ejemplo CON retención (plazo < 180 días):**  
+Inversión USD 1.000 a 100 días, tasa 6% anual.  
+Interés bruto: 1.000 × 0,06 × (100 ÷ 360) = USD 16,67  
+Retención 3%: 16,67 × 0,03 = USD 0,50  
+Interés neto: USD 16,17 | Total a recibir: **USD 1.016,17**
 
-**Ejemplo práctico — plazo igual o mayor a 180 días (SIN retención):**
-Inversión USD 1.000 a 181 días, tasa 8% anual.
-Interés bruto: 1.000 × 0.08 × (181 ÷ 360) = USD 40.22.
-Retención: USD 0.00 (exento por plazo ≥ 180 días).
-Total a recibir: USD 1.040.22.
+**Ejemplo SIN retención (plazo ≥ 180 días):**  
+Inversión USD 1.000 a 181 días, tasa 8% anual.  
+Interés bruto: 1.000 × 0,08 × (181 ÷ 360) = USD 40,22  
+Retención: USD 0,00 (exento)  
+Total a recibir: **USD 1.040,22**
 
-**Recomendación:** Invertir a 180 días o más permite acceder a tasas más altas y además evitar la retención, maximizando el rendimiento neto.
+> **Recomendación:** Invertir a 180 días o más permite acceder a tasas más altas y evitar la retención, maximizando el rendimiento neto.
+
+El comprobante de retención que emite Simiátug sirve como **crédito tributario** en la declaración anual del Impuesto a la Renta del socio.
 
 ---
 
 ## 7. Créditos
 
-Credi Emprendimiento: para microempresas y trabajadores por cuenta propia con ventas anuales inferiores a $20,000 USD. Montos desde $1,000 hasta $20,000 USD. Garantía solidaria. Líneas disponibles: Comercio, Ganadería, Emprendimientos productivos, Credi Mujer Simiateña, Credi Joven Simiateño, Credi Simiátug Runa. Simulador: https://simiatug.fin.ec/simulador/
+> **IMPORTANTE:** Todo trámite de crédito es **PRESENCIAL** en cualquiera de las agencias. No se realizan créditos virtuales. El cliente NO necesita enviar dinero por adelantado ni realizar ningún pago previo.
 
-Proceso para obtener un crédito: todo trámite es PRESENCIAL en cualquiera de las agencias. El cliente NO necesita enviar dinero por adelantado ni realizar ningún pago previo para acceder a un crédito. Pasos: acercarse a la agencia más cercana, consultar con el asesor de crédito sobre monto y plazo, presentar los requisitos documentales, el asesor realiza inspección obligatoria, una vez aprobado se procede al desembolso.
+Simulador de crédito: https://simiatug.fin.ec/simulador/
 
-Requisitos de crédito: copias de cédula y papeleta de votación a color del socio, cónyuge y garantes, planilla del último pago de servicios básicos del socio y garante, rol de pagos mecanizado del IESS si es empleado, copia de escritura pública si posee propiedad, pago de impuesto predial, copia de RUC o declaración de IVA mensual si tiene negocio, solicitud de crédito firmada por deudor y garantes, garantes deben saber firmar, inspección obligatoria por asesor de crédito.
+### 7.1 Credi Familia Simiátug
+
+Crédito promocional dirigido a quienes más lo necesitan, orientado a impulsar la agricultura, ganadería, comercio, emprendimientos, compra de terrenos, adquisición de vivienda y otras necesidades productivas o personales.
+
+**Beneficios:**
+- Sin encaje
+- Monto hasta $30.000
+- Tasa de interés preferencial: **13,99%**
+- Sin garante (si posee bienes que respalden el monto); en caso contrario se requiere garante
+- Plazo máximo: 72 meses
+
+**Requisitos sin garante:**
+- Copias de cédulas de identidad del socio y cónyuge a color
+- Planilla de un servicio básico (3 meses anteriores)
+- Copia de escritura o adjudicación del socio
+- Rol de pagos mecanizado del IESS (si es empleado)
+- Pago de impuesto predial vigente (no aplica para quienes tienen adjudicación)
+- Copia de RUC (si tiene negocio)
+- Copia de matrícula del vehículo (si posee)
+
+**Requisitos con garante:** se añaden a los anteriores:
+- Copias de cédulas de identidad del garante y cónyuge a color
+- Copia de papeleta de votación del socio y garantes (no es obligatoria si no la tienen)
+- Planilla de un servicio básico del garante (3 meses anteriores)
+- Certificado de trabajo (si posee)
+- Copia de escritura o adjudicación del garante
+
+**Crédito hipotecario (documentos adicionales):**
+- Escritura original
+- Pago de impuesto predial actualizado
+- Certificado libre gravamen del registro de propiedad
+- Avalúos por un perito calificado
+- Inspección por asesor de crédito
+- Constitución de hipoteca abierta
+
+**Crédito prendario (documentos adicionales):**
+- Certificado único vehicular de la ANT
+- Constitución de la prenda e inscripción en el registro mercantil y ANT
+
+### 7.2 Microcrédito Reactívate con Simiátug
+
+Orientado a impulsar la reactivación productiva en los sectores agrícola, pecuario y comercial, así como para la adquisición de terrenos, vivienda, vehículos y otras necesidades del cliente.
+
+**Beneficios:**
+- Tasa: **18,50%**
+- Monto: desde $20.000 hasta $30.000
+- Plazo: hasta 72 meses
+
+**Requisitos:** mismos que Credi Familia con garante (ver sección 7.1), más los documentos hipotecarios o prendarios según corresponda.
+
+### 7.3 Microcrédito Amor de Hogar
+
+Crédito de oportunidad para impulsar proyectos y sueños de los socios.
+
+**Beneficios:**
+- Sin garante (si posee bienes que respalden el monto; en caso contrario se requiere garante)
+- Tasa de interés: **15,99%**
+- Monto máximo: hasta $15.000
+- Plazo: hasta 48 meses
+
+**Requisitos:**
+- Copias de cédulas de identidad del socio y cónyuge a color
+- Planilla de un servicio básico (3 meses anteriores)
+- Copia de escritura o adjudicación del socio
+- Rol de pagos mecanizado del IESS (si es empleado)
+- Pago de impuesto predial vigente (no aplica para quienes tienen adjudicación)
+- Copia de RUC (si tiene negocio)
+- Copia de matrícula del vehículo (si posee)
+
+### 7.4 Proceso General para Obtener un Crédito
+
+1. Acercarse a la agencia más cercana
+2. Consultar con el asesor de crédito sobre monto y plazo
+3. Presentar los requisitos documentales correspondientes
+4. El asesor realiza inspección obligatoria
+5. Una vez aprobado, se procede al desembolso
 
 ---
 
 ## 8. Otros Servicios
 
-La cooperativa ofrece más de 100 servicios de pago en sus agencias: pago de agua potable, luz eléctrica, teléfono convencional, internet, transferencias interbancarias, cobro del Bono de Desarrollo Humano.
+La cooperativa ofrece más de 100 servicios de pago en sus agencias: pago de agua potable, luz eléctrica, teléfono convencional, internet, transferencias interbancarias (SPI), cobro del Bono de Desarrollo Humano.
 
 ---
 
 ## 9. Morosidad y Recargos
 
-Según Resolución No. 165-2015-F de la Junta de Regulación Monetaria Financiera, recargos por mora según saldo del crédito:
+Según Resolución No. 165-2015-F de la Junta de Regulación Monetaria Financiera:
 
-Saldo menor a $100: 1-30 días $6.38, 31-60 días $16.23, 61-90 días $23.17, más de 90 días $25.56.
-Saldo de $100 a $199: 1-30 días $7.35, 31-60 días $16.46, 61-90 días $23.85, más de 90 días $26.64.
-Saldo de $200 a $299: 1-30 días $7.92, 31-60 días $17.83, 61-90 días $25.27, más de 90 días $29.03.
-Saldo de $300 a $499: 1-30 días $8.32, 31-60 días $20.34, 61-90 días $27.43, más de 90 días $32.72.
-Saldo de $500 a $999: 1-30 días $8.63, 31-60 días $23.99, 61-90 días $30.34, más de 90 días $37.70.
-Saldo mayor a $1,000: 1-30 días $8.88, 31-60 días $28.78, 61-90 días $34.01, más de 90 días $43.99.
+| Saldo del crédito | 1–30 días | 31–60 días | 61–90 días | +90 días |
+|---|---|---|---|---|
+| Menor a $100 | $6,38 | $16,23 | $23,17 | $25,56 |
+| $100 a $199 | $7,35 | $16,46 | $23,85 | $26,64 |
+| $200 a $299 | $7,92 | $17,83 | $25,27 | $29,03 |
+| $300 a $499 | $8,32 | $20,34 | $27,43 | $32,72 |
+| $500 a $999 | $8,63 | $23,99 | $30,34 | $37,70 |
+| Mayor a $1.000 | $8,88 | $28,78 | $34,01 | $43,99 |
 
 Para evitar recargos, mantenga sus pagos al día. Puede revisar su saldo en la banca en línea o acercarse a cualquier agencia.
 
 ---
 
-## 10. Canales Digitales y App Simiátug Móvil
+## 10. Canales Digitales
 
-La cooperativa cuenta con los siguientes canales digitales: banca en línea web en https://enlinea.simiatug.fin.ec/BancaVirtual/login, aplicación móvil Simiátug Móvil disponible en Google Play y App Store, chat de atención para soporte tecnico como HelpDesk o mesa de ayuda en https://chat.simiatug.fin.ec/hc/yanapay/es_EC
+### 10.1 Simiátug Móvil (App)
 
-Con los canales digitales puede: consultar saldos y movimientos, realizar transferencias internas y externas (SPI interbancarias), pagar cuotas de créditos, consultar información de productos y servicios, solicitar soporte técnico.
+Aplicación móvil disponible en **Google Play** y **App Store** buscando exactamente: **Simiátug Móvil**.
 
-Requisito previo importante para usar la App o Banca en Línea: para registrarse en la aplicación móvil Simiátug Móvil o en la banca virtual web, sus datos de contacto deben estar actualizados en la cooperativa, especialmente número de celular y correo electrónico. Si sus datos están desactualizados, debe acercarse presencialmente a cualquier agencia para actualizarlos antes de poder registrarse en los canales digitales.
+### 10.2 Simiátug en Línea (Banca Virtual Web)
 
-Proceso de registro en Simiátug Móvil o Banca en Línea:
-1. Descargar la app desde Google Play o App Store buscando exactamente Simiátug Móvil. Para la web ir a https://simiatug.fin.ec y seleccionar Simiátug en línea.
-2. Seleccionar Registrarse e ingresar: número de cédula, fecha de nacimiento y número de cuenta.
+Acceso en: https://enlinea.simiatug.fin.ec/BancaVirtual/login  
+Desde la web: ir a https://simiatug.fin.ec y seleccionar "Simiátug en línea".
+
+### 10.3 Funcionalidades disponibles en canales digitales
+
+- Consultar saldos y movimientos
+- Realizar transferencias internas y externas (SPI interbancarias)
+- Pagar cuotas de créditos
+- Consultar información de productos y servicios
+- Solicitar soporte técnico
+
+### 10.4 Requisito previo para registrarse
+
+Sus datos de contacto (**número de celular y correo electrónico**) deben estar actualizados en la cooperativa. Si están desactualizados, debe acercarse **presencialmente** a cualquier agencia antes de registrarse en los canales digitales.
+
+### 10.5 Proceso de registro en Simiátug Móvil o Banca en Línea
+
+1. Descargar la app desde Google Play o App Store (buscar: **Simiátug Móvil**). Para la web, ir a https://simiatug.fin.ec → "Simiátug en línea".
+2. Seleccionar **Registrarse** e ingresar: número de cédula, fecha de nacimiento y número de cuenta.
 3. Leer y aceptar los Términos y Condiciones.
-4. El sistema enviará un código OTP de confirmación a su celular o correo electrónico registrado. Tiene 3 minutos para ingresarlo.
+4. El sistema enviará un **código OTP** al celular o correo registrado. Tiene **3 minutos** para ingresarlo.
 5. Si no recibe el código en 3 minutos, debe acudir presencialmente a una agencia para actualizar sus datos de contacto. No es posible forzar el envío remoto por seguridad.
-6. Crear usuario y contraseña. La contraseña debe incluir mayúsculas, minúsculas, números y caracteres especiales.
-7. Crear PIN de seguridad de 4 dígitos para recuperación de cuenta.
+6. Crear usuario y contraseña (debe incluir mayúsculas, minúsculas, números y caracteres especiales).
+7. Crear **PIN de seguridad** de 4 dígitos para recuperación de cuenta.
 8. Asignar un alias o nombre al dispositivo.
 
-Inicio de sesión: ingresar usuario y contraseña, el sistema enviará un código de confirmación al celular en cada inicio de sesión, ingresar el código para acceder. Si la contraseña falla 3 veces, la cuenta se bloquea automáticamente.
+### 10.6 Inicio de sesión
+
+- Ingresar usuario y contraseña.
+- El sistema enviará un código de confirmación al celular en cada inicio de sesión.
+- Si la contraseña falla **3 veces**, la cuenta se bloquea automáticamente.
 
 ---
 
 ## 11. Seguridad Digital y Prevención de Fraudes
 
-ALERTA DE FRAUDE: La Cooperativa Simiátug NO realiza créditos de manera virtual bajo ninguna circunstancia. Si alguien le contacta ofreciendo créditos en línea, por WhatsApp, redes sociales o cualquier medio virtual solicitando pagos anticipados, cuotas de apertura, seguros, impuestos o cualquier valor económico previo a nombre de Simiátug, es un FRAUDE. No entregue ningún valor económico. Visite únicamente nuestras agencias en Simiátug, El Corazón, Facundo Vela o San Luis de Pambil.
+> ⚠️ **ALERTA DE FRAUDE:** La Cooperativa Simiátug **NO realiza créditos de manera virtual bajo ninguna circunstancia**. Si alguien le contacta ofreciendo créditos en línea, por WhatsApp, redes sociales o cualquier medio virtual solicitando pagos anticipados, cuotas de apertura, seguros, impuestos o cualquier valor económico previo a nombre de Simiátug, **es un FRAUDE**. No entregue ningún valor. Visite únicamente nuestras agencias físicas.
 
-Recomendaciones de seguridad para proteger su cuenta:
-1. Descargue la app únicamente desde Google Play o App Store buscando Simiátug Móvil. Nunca desde links enviados por WhatsApp, SMS o correo.
-2. Nunca comparta su usuario, contraseña, PIN, ni código OTP con nadie, ni con empleados de la cooperativa por teléfono.
-3. La cooperativa NUNCA le pedirá sus claves por teléfono, WhatsApp o correo electrónico.
+**Recomendaciones de seguridad:**
+
+1. Descargue la app únicamente desde **Google Play o App Store** buscando "Simiátug Móvil". Nunca desde links enviados por WhatsApp, SMS o correo.
+2. **Nunca comparta** su usuario, contraseña, PIN ni código OTP con nadie, ni con empleados de la cooperativa por teléfono.
+3. La cooperativa **NUNCA** le pedirá sus claves por teléfono, WhatsApp o correo electrónico.
 4. Desconfíe de llamadas o mensajes que digan ser de Simiátug y le pidan datos personales o claves.
 5. No acceda a la banca virtual desde computadoras públicas o redes WiFi abiertas.
-6. Cambie su contraseña periódicamente y use combinaciones de mayúsculas, minúsculas, números y caracteres especiales.
-7. Si recibe un mensaje sospechoso a nombre de Simiátug, contáctenos directamente al 032 223 073 o a info@simiatug.fin.ec para verificar.
+6. Cambie su contraseña periódicamente usando combinaciones de mayúsculas, minúsculas, números y caracteres especiales.
+7. Si recibe un mensaje sospechoso a nombre de Simiátug, verifique directamente al 032 223 073 o a info@simiatug.fin.ec.
 8. Si sospecha que su cuenta fue comprometida, acérquese inmediatamente a la agencia más cercana.
-9. Mantenga actualizados su número de celular y correo electrónico en la cooperativa para recibir los códigos de verificación correctamente.
-10. La cooperativa utiliza un sistema de doble factor de autenticación OTP en cada inicio de sesión para su protección.
+9. Mantenga actualizados su número de celular y correo electrónico en la cooperativa.
+10. La cooperativa utiliza **doble factor de autenticación OTP** en cada inicio de sesión.
 
 Sus credenciales digitales son personales e intransferibles. Usted es el único responsable de las transacciones realizadas con sus claves.
 
@@ -201,68 +434,91 @@ Sus credenciales digitales son personales e intransferibles. Usted es el único 
 
 ## 12. Privacidad de Datos y Derechos del Titular
 
-La Cooperativa Simiátug cumple con la Ley Orgánica de Protección de Datos Personales (LOPDP) del Ecuador. Sus datos personales son usados para: prestar servicios financieros, consulta a burós de crédito, prevención de lavado de activos, envío de información transaccional, y promociones (con autorización previa).
+La Cooperativa Simiátug cumple con la **Ley Orgánica de Protección de Datos Personales (LOPDP)** del Ecuador.
 
-Sus datos NO son vendidos a terceros. Solo se comparten cuando existe obligación legal (SEPS, UAFE, SRI) o necesidad para prestar el servicio (burós de crédito, redes transaccionales).
+**Sus datos personales se usan para:** prestación de servicios financieros, consulta a burós de crédito, prevención de lavado de activos, envío de información transaccional y promociones (con autorización previa).
 
-Derechos del titular (ARCO+): Acceso (conocer qué datos tiene la cooperativa), Rectificación (corregir información inexacta), Eliminación (borrado de datos cuando no haya obligación legal de conservarlos), Oposición (negarse al uso de datos para marketing), Portabilidad (recibir sus datos en formato estructurado).
+**Sus datos NO son vendidos a terceros.** Solo se comparten cuando existe obligación legal (SEPS, UAFE, SRI) o necesidad para prestar el servicio.
 
-Para ejercer sus derechos: correo info@simiatug.fin.ec, teléfono 032 223 073, presencial en cualquier agencia. Respuesta en máximo 15 días. El trámite es gratuito.
+**Derechos del titular (ARCO+):**
+- **Acceso:** conocer qué datos tiene la cooperativa
+- **Rectificación:** corregir información inexacta
+- **Eliminación:** borrado de datos cuando no haya obligación legal de conservarlos
+- **Oposición:** negarse al uso de datos para marketing
+- **Portabilidad:** recibir sus datos en formato estructurado
 
-Sus datos se conservan mínimo 15 años desde la terminación de la relación contractual, según el Art. 225 del Código Orgánico Monetario y Financiero.
+**Para ejercer sus derechos:** info@simiatug.fin.ec | 032 223 073 | presencial en cualquier agencia. Respuesta en máximo **15 días**. El trámite es **gratuito**.
+
+Sus datos se conservan mínimo **15 años** desde la terminación de la relación contractual (Art. 225 del Código Orgánico Monetario y Financiero).
 
 ---
 
 ## 13. Quejas, Reclamos y Transparencia
 
-Para quejas o denuncias: correo info@simiatug.fin.ec, teléfono 032 223 073, presencial en cualquier agencia con formulario físico.
+**Canales para quejas o reclamos:**
+- Email: info@simiatug.fin.ec
+- Teléfono: 032 223 073
+- Presencial en cualquier agencia (formulario físico disponible)
+- Formulario de quejas por afectación ambiental: descargar en https://simiatug.fin.ec/reclamos/ y enviar a info@simiatug.fin.ec
 
-Formulario de quejas por afectación ambiental: descargarlo en https://simiatug.fin.ec/transparencia/ y enviarlo a info@simiatug.fin.ec.
+**Información de transparencia institucional:** https://simiatug.fin.ec/transparencia/
 
-Información de transparencia institucional disponible en https://simiatug.fin.ec/transparencia/.
+La sección de transparencia incluye: Estatutos, Reglamento interno, Código de ética, Indicadores del buen gobierno, Calificación de activos de riesgo, Tasas y costos financieros, Balance general, Indicadores financieros, Equidad de género, Información oficial del seguro de depósitos (COSEDE), SARAS, Auditoría externa y Certificado de calificación de riesgo.
 
 ---
 
 ## 14. Preguntas Frecuentes
 
-¿Ofrecen créditos en línea o virtuales? No. La COAC Simiátug no realiza créditos de manera virtual bajo ninguna circunstancia. Si alguien ofrece créditos virtuales a nombre de Simiátug es un fraude. No entregue ningún valor económico y visite presencialmente nuestras agencias.
+**¿Ofrecen créditos en línea o virtuales?**  
+No. La COAC Simiátug no realiza créditos de manera virtual bajo ninguna circunstancia. Si alguien ofrece créditos virtuales a nombre de Simiátug, es un fraude. No entregue ningún valor económico y visite presencialmente nuestras agencias.
 
-¿Cómo solicito un crédito? Acérquese a cualquier agencia, consulte con nuestro asesor, presente los requisitos documentales. Todo el proceso es presencial y gratuito, no requiere ningún pago anticipado.
+**¿Cómo solicito un crédito?**  
+Acérquese a cualquier agencia, consulte con nuestro asesor, presente los requisitos documentales. Todo el proceso es presencial y gratuito, no requiere ningún pago anticipado.
 
-¿Se puede cobrar el bono en la cooperativa? Sí. Todas las entidades financieras estamos acreditadas para pagar el bono. Debe abrir una cuenta en cualquier agencia y registrarla en el MIES.
+**¿Se puede cobrar el bono en la cooperativa?**  
+Sí. Todas las entidades financieras estamos acreditadas para pagar el bono. Debe abrir una cuenta en cualquier agencia y registrarla en el MIES.
 
-¿Tienen agencias en la costa? No. Nuestras agencias están únicamente en Provincia Bolívar (Simiátug, San Luis de Pambil, Facundo Vela) y Provincia Cotopaxi (El Corazón).
+**¿Tienen agencias en la costa?**  
+No. Las agencias están únicamente en Provincia Bolívar (Simiátug, San Luis de Pambil, Facundo Vela) y Provincia Cotopaxi (El Corazón).
 
-¿Cómo accedo a la banca en línea? Ingrese a https://enlinea.simiatug.fin.ec/BancaVirtual/login con su usuario y contraseña. Si no se ha registrado aún, necesita tener sus datos actualizados en la cooperativa.
+**¿Cómo accedo a la banca en línea?**  
+Ingrese a https://enlinea.simiatug.fin.ec/BancaVirtual/login con su usuario y contraseña. Si no se ha registrado aún, necesita tener sus datos actualizados en la cooperativa.
 
-¿Mis ahorros están protegidos? Sí. Sus depósitos están respaldados por el seguro COSEDE (Corporación del Seguro de Depósitos).
+**¿Mis ahorros están protegidos?**  
+Sí. Sus depósitos están respaldados por el seguro COSEDE (Corporación del Seguro de Depósitos).
 
-¿Puedo ser socio si vivo fuera de Simiátug? Sí. La cooperativa es abierta y acepta a cualquier persona con capacidad y voluntad de ahorrar, sin restricción de domicilio.
+**¿Puedo ser socio si vivo fuera de Simiátug?**  
+Sí. La cooperativa es abierta y acepta a cualquier persona con capacidad y voluntad de ahorrar, sin restricción de domicilio.
 
-¿Qué pasa si me atraso en el pago de mi crédito? Se aplicarán recargos por mora según la tabla de la Resolución No. 165-2015-F. Acérquese a la agencia más cercana para coordinar su pago y evitar recargos adicionales.
+**¿Qué pasa si me atraso en el pago de mi crédito?**  
+Se aplicarán recargos por mora según la tabla de la Resolución No. 165-2015-F. Acérquese a la agencia más cercana para coordinar su pago y evitar recargos adicionales.
 
-¿Cómo retiro mi calidad de socio? Solicite su retiro voluntario en cualquier agencia. La cooperativa liquidará y entregará sus haberes en un plazo máximo de 90 días.
+**¿Cómo retiro mi calidad de socio?**  
+Solicite su retiro voluntario en cualquier agencia. La cooperativa liquidará y entregará sus haberes en un plazo máximo de 90 días.
 
-¿Por qué no recibo el código para registrarme en la app? Si no recibe el código OTP en 3 minutos, significa que sus datos de contacto están desactualizados. Debe acercarse presencialmente a cualquier agencia para actualizar su número de celular y correo electrónico. No es posible resolver esto de forma remota por seguridad.
+**¿Por qué no recibo el código para registrarme en la app?**  
+Si no recibe el código OTP en 3 minutos, significa que sus datos de contacto están desactualizados. Debe acercarse presencialmente a cualquier agencia para actualizar su número de celular y correo electrónico.
 
-¿Cómo descargo la app Simiátug Móvil? Ingrese a Google Play (Android) o App Store (iPhone), busque exactamente Simiátug Móvil y seleccione instalar. No descargue la app desde links enviados por WhatsApp, SMS o correo, ya que pueden ser fraudulentos.
+**¿Cómo descargo la app Simiátug Móvil?**  
+Ingrese a Google Play (Android) o App Store (iPhone), busque exactamente "Simiátug Móvil" y seleccione instalar. No descargue la app desde links enviados por WhatsApp, SMS o correo.
 
-¿Qué hago si olvidé mi contraseña? Use su PIN de 4 dígitos para recuperar el acceso. Si tampoco recuerda el PIN, acérquese a cualquier agencia para restablecer sus credenciales.
+**¿Qué hago si olvidé mi contraseña?**  
+Use su PIN de 4 dígitos para recuperar el acceso. Si tampoco recuerda el PIN, escriba a tics@simiatug.fin.ec, acérquese a cualquier agencia para restablecer sus credenciales.
 
-¿Qué puedo hacer en la aplicacion Simiatug Mobil banca virtual? Consultar saldos y movimientos, realizar transferencias internas y externas (SPI), pagar cuotas de créditos, consultar información de productos financieros.
+**¿Me descuentan algo cuando cobro los intereses de mi depósito a plazo fijo?**  
+Depende del plazo. Si su depósito es a menos de 180 días, se aplica una retención del 3% sobre los intereses generados (no sobre el capital). Si su depósito es a 180 días o más, está exento de retención y recibe el 100% de los intereses. En ambos casos, su capital invertido se devuelve íntegro al vencimiento.
 
-¿Tienen soporte técnico? Sí, puede escribir a tics@simiatug.fin.ec Inti Poaquiza Azogue.
+**¿Cómo puedo evitar la retención del 3%?**  
+Invirtiendo a un plazo igual o mayor a 180 días. Además de estar exento de retención, las tasas de interés son más altas en ese rango, maximizando su rendimiento neto.
 
-¿Me descuentan algo cuando cobro los intereses de mi depósito a plazo fijo? Depende del plazo. Si su depósito es a menos de 180 días, la cooperativa aplica una retención del 3% sobre los intereses generados (no sobre el capital). Si su depósito es a 180 días o más, está exento de retención y recibe el 100% de los intereses. En ambos casos, su capital invertido se devuelve íntegro al vencimiento.
+**¿La retención del 3% se aplica sobre todo mi dinero depositado?**  
+No. La retención se aplica únicamente sobre los intereses (la ganancia generada), nunca sobre el capital depositado.
 
-¿Cómo puedo evitar la retención del 3%? Invirtiendo a un plazo igual o mayor a 180 días. Además de estar exento de retención, en ese rango de plazo las tasas de interés son más altas, lo que maximiza su rendimiento neto. Es la opción más conveniente para el socio.
+**¿Qué es el comprobante de retención que entrega Simiátug?**  
+Es un documento oficial que acredita que la cooperativa retuvo y pagó el 3% al SRI en su nombre. Puede usarlo como crédito tributario en su declaración anual del Impuesto a la Renta.
 
-¿La retención del 3% se aplica sobre todo mi dinero depositado? No. La retención se aplica únicamente sobre los intereses (la ganancia generada), nunca sobre el capital depositado. Por ejemplo, si invierte USD 1.000 y genera USD 16.44 de intereses, la retención sería solo USD 0.49. Su inversión de USD 1.000 se devuelve íntegra.
+**¿Tienen soporte técnico?**  
+Sí, puede escribir a tics@simiatug.fin.ec
 
-¿Qué es el comprobante de retención que entrega Simiátug? Es un documento oficial que acredita que la cooperativa retuvo y pagó el 3% al SRI en su nombre. Puede usarlo como crédito tributario en su declaración anual del Impuesto a la Renta para reducir o recuperar ese valor.
-
-¿Cuáles son las tasas de plazo fijo para persona natural? Para personas naturales el monto va desde USD 100 hasta USD 250,000. Las tasas son: 91 a 180 días 6.00% anual, 181 a 250 días 8.00% anual, 251 a 390 días 9.00% anual, 391 a 729 días 9.00% anual, 730 días en adelante 10.00% anual.
-
-¿Cuáles son las tasas de plazo fijo para persona jurídica? Para personas jurídicas el monto va desde USD 1,000 hasta USD 500,000. Las tasas son: 91 a 119 días 4.50% anual, 120 a 180 días 5.00% anual, 181 a 364 días 5.50% anual, 365 días en adelante 6.25% anual.
-
-¿Dónde encuentro más información? Centro de Información: https://chat.simiatug.fin.ec/hc/yanapay/es_EC, WhatsApp: 096 289 8226, web: https://simiatug.fin.ec.
+**¿Dónde encuentro más información?**  
+Centro de Información: https://chat.simiatug.fin.ec/hc/yanapay/es_EC | WhatsApp: 096 289 8226 | Web: https://simiatug.fin.ec
